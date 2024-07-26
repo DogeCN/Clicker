@@ -1,2 +1,4 @@
 # Clicker
- A Fast Auto Clicker
+### A Fast Auto Clicker
+
+![UI](image.png)
